@@ -5,4 +5,8 @@
 3. Timer 1 not included, but I think the tables are not far apart IIRC
 4. Have fun as usual
 
+**How to Use?
+- You can either clone the repo and open it with Visual Studio OR open the Source.cpp file and copy the code into any C++ IDE
+
+
 ![image](https://user-images.githubusercontent.com/7589432/166114774-b43624f5-29d4-42b2-8227-31e2af8bbd2d.png)
